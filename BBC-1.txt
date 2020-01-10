@@ -1,0 +1,114 @@
+# Título = Congresso pode derrubar lei que obriga polícias e Exército a comprar munição marcada
+# Autor = Ligia Guimarães 
+# Endereço = https://www.bbc.co.uk/portuguese/brasil-50929824
+# Seção = Brasil
+# Data de publicação = 30 dezembro 2019
+# Sobre a mídia = BBC News é a seção de Jornalismo dentro da BBC, atuante em TV, rádio e Internet e diversas partes do mundo, inclusive no Brasil.
+# Lide = Aprovado na Câmara e em tramitação no Senado, o Projeto de Lei 3.723/2019 prevê eliminar a regra que obriga polícias e Forças Armadas a comprarem munições com marcação de lote nas cápsulas das balas.
+
+
+
+
+Direito de imagem
+PMSP
+
+
+Image caption
+
+                    Projeto de lei revoga a obrigação de polícias e Forças Armadas comprarem munição marcada por lote
+                
+
+Aprovado na Câmara e em tramitação no Senado, o Projeto de Lei 3.723/2019 prevê eliminar a regra que obriga polícias e Forças Armadas a comprarem munições com marcação de lote nas cápsulas das balas.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+O projeto, aprovado pelos parlamentares na Câmara em 5 de novembro, foi enviado ao Congresso pelo presidente Jair Bolsonaro como alternativa após a revogação de quatro dos oito decretos que já vigoraram neste ano mudando regras para fabricação, porte e controle de armas e munições no país.A medida que revoga a obrigação da munição marcada, no entanto, passou de maneira discreta em meio ao texto do PL que, pelo acordo entre os parlamentares, deveria determinar exclusivamente as regras para o porte de armas dos colecionadores, atiradores desportivos e caçadores, os chamados CACs. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+'Aventura jurídica' e 'licença para matar': o que dizem juristas sobre excludente de ilicitude em projeto de Bolsonaro
+O jovem japonês que morreu depois de bater na porta errada nos EUA
+A determinação, que deixará de valer se o projeto for aprovado pelo Senado, foi criada em 2003, na lei 10.826, conhecida como Estatuto do Desarmamento, e tem se mostrado fundamental para a investigação de crimes envolvendo armas de fogo, como o assassinato da vereadora Marielle Franco e do motorista Anderson Gomes, por exemplo. "Na época da aprovação [do Estatuto do Desarmamento] a sociedade civil queria a obrigatoriedade da marcação das munições para todos, mas o lobby da indústria das armas não deixou. Mas mesmo sendo só para as forças públicas de segurança isso já ajudou a esclarecer vários crimes e identificar vários desvios", afirma Bruno Langeani, do Instituto Sou da Paz e um forte crítico do PL. Ele diz também que faltou transparência na discussão sobre a medida, que foi "contrabandeada" e incluída no texto, segundo Langeani, sem debate, em um dos textos substitutivos enviados pelo relator, Alexandre Leite (DEM-SP). O PL 3.723/2019 foi encaminhado pela Presidência da República à Câmara depois de uma série de polêmicas causadas pelos diversos decretos publicados pelo Poder Executivo em 2019. Procurados pela reportagem da BBC News Brasil, o Palácio do Planalto e o Ministério da Justiça e Segurança Pública não quiseram comentar o assunto. 
+
+
+Direito de imagem
+Alan Santos/PR
+
+
+Image caption
+
+                    PL 3723/2019 foi encaminhado pela Presidência da República à Câmara depois de uma série de polêmicas causadas pelos diversos decretos publicados pelo Poder Executivo
+                
+
+Já o relator do projeto, Alexandre Leite, autor do texto substitutivo que foi aprovado na Câmara e um dos líderes na negociação da votação, nega que tenha faltado transparência nas discussões. No acordo negociado entre os parlamentares para que o projeto fosse votado, ficou combinado que o texto ficaria restrito a alterações relativas a colecionadores, atiradores desportivos e caçadores, retirando do texto qualquer possibilidade de estender porte e posse a outras categorias, como queria o governo.Para tentar um acordo em relação ao texto, Leite apresentou uma complementação de voto retirando mudanças quanto ao porte de arma para guardas municipais, agentes da Agência Brasileira de Inteligência (Abin) e da segurança do presidente da República.A versão aprovada do texto do projeto, no entanto, incluiu a compra de munições marcadas pelas forças de segurança pública ao determinar a revogação do Artigo 23 do Estatuto do Desarmamento. O artigo derrubado determinava que, para as forças de segurança do Estado, "somente serão expedidas autorizações de compra de munição com identificação do lote e do adquirente no culote dos projéteis, na forma do regulamento desta Lei". A lei que criou o Estatuto do Desarmamento foi aprovada pelo Congresso Nacional e regulamentada por meio de um decreto em 1º de junho de 2004.  Leite argumenta que a revogação do Artigo 23 serviu para "antecipar uma discussão" que já estaria sendo feito sobre a marcação de munições. "Com isso, com a sanção desta lei, o Exército, via portaria, e o Executivo, via decreto, já poderão definir as diretrizes do novo meio de rastreio, sem que para isso dependa de uma nova legislação e do Congresso", afirmou, à BBC News Brasil, por e-mail. "Deve-se destacar que a ideia não foi flexibilizar o comércio, mas permitir que as exigências revogadas, já em acordo com os órgãos acima citados, já sejam trazidas."Para especialistas em segurança pública ouvidos pela reportagem, no entanto, a medida irá dificultar o combate ao crime por retirar de cena uma parte importante das investigações. 
+
+
+Direito de imagem
+Luis Macedo/Câmara dos Deputados
+
+
+Image caption
+
+                    Medida passou de maneira discreta na Câmara e agora tramita no Senado
+                
+
+Para que serve a marcação?Foi a marcação da balas, por exemplo, que tornou possível o avanço das investigações sobre o assassinato da vereadora Marielle Franco e do motorista Anderson Gomes, mortos em 14 de março de 2018.  Projéteis recolhidos do carro onde estavam Marielle e Anderson ajudaram a confirmar que as balas recolhidas eram de pistolas 9mm, de um lote vendido para a Polícia Federal de Brasília em 2006.A Polícia Civil descobriu que a munição era original - quer dizer, não havia sido recarregada. Isso porque a espoleta, que provoca o disparo da bala, era original. Foi possível saber também, graças às informações marcadas no estojo encontrado na cena do crime, que a munição desse mesmo lote foi usada na maior chacina de São Paulo, em 2015, quando 17 pessoas morreram, e nos assassinatos de cinco pessoas em guerras de facções de traficantes em São Gonçalo, na Região Metropolitana do Rio. Na época da chacina paulista, foram apreendidas cápsulas de outros quatro lotes, que pertenciam, além da PF, à PM paulista e ao Exército.Bruno Langeani, do Instituto sou da Paz e um dos maiores especialistas do país em armas e munições, diz que conhecer a origem da munição também foi fundamental na solução de crimes como o assassinato da juíza Patrícia Acioli, em 2011, assassinada por policiais militares depois de determinar a prisão de cerca de 60 policiais ligados a milícias e grupos de extermínio. 
+
+
+Direito de imagem
+Lula Marques
+
+
+Image caption
+
+                    Sessão solene na Câmara, em março de 2018, pela vereadora carioca Marielle Franco; marcação de munição que a matou ajudou a identificar lote das balas
+                
+
+Polêmicas e apreciação do SenadoA revogação da exigência da marcação de munição é uma das controvérsias que precisarão ser debatidas e apreciadas pelos senadores ao debaterem o PL. O Instituto Sou da Paz, em nota divulgada depois da aprovação, criticou o fato de que o projeto " não tramitou por nenhuma comissão da Câmara, seja permanente ou especial. Foram três substitutivos apresentados diretamente em plenário e, no dia anterior à votação prevista, uma nova 'subemenda substitutiva global' foi apresentada, fruto do acordo que havia sido firmado em plenário na semana anterior". Leite argumenta que o projeto chegou com urgência da Presidência, mas que não se tratava de um tema novo e que, por isso, já havia sido debatido com a sociedade. Ivan Marques, do Fórum Brasileiro de Segurança Pública, diz que a marcação de munição pelas forças de segurança no Brasil é frequentemente apontada como uma boa prática em debates internacionais sobre o tema. "A marcação de munição é um debate que está muito vigente no cenário internacional. EUA e Rússia bloquearam por muitos anos a discussão sobre munições, mas países como Alemanha, México e até o Brasil, no ano passado e retrasado, lideraram uma discussão sobre munição na Organização das Nações Unidas, brigando pela marcação. O Brasil é um dos países considerados exemplo da políticas de armas, e a munição marcada é sempre trazida como boa prática", diz. 
+
+
+Direito de imagem
+THIAGO GOMES/Ag Pará
+
+
+Image caption
+
+                    Armas e munições apreendidas pela polícia do Pará em 2018; críticos afirmam falta de marcação em munições dificultará combate ao crime
+                
+
+'Caos' de normas Por mais de 15 anos, as regras para controle de armas e munições (posse, porte, armas permitidas e proibidas, comércio exterior, etc.) vigoraram com poucas alterações. O Estatuto do Desarmamento tinha apenas um regulamento, o que, na visão dos especialistas, facilitava a consulta e entendimento de cidadãos e operadores do sistema de Justiça e segurança.As regras mais técnicas sobre os calibres, armas e acessórios e explosivos controlados ficavam em decreto, instruído pelo Comando do Exército (R-105). No governo Bolsonaro, já foram oito decretos diferentes, dos quais quatro estão em vigor. "O Ministério Público Federal definiu a situação como 'caos normativo'."A Procuradoria Federal dos Direitos do Cidadão (PFDC) e a Câmara de Controle Externo da Atividade Policial e de Sistema Prisional (7CCR), ambos do Ministério Público Federal (MPF), sugerem a alteração de "diversos dispositivos do projeto nos quais se facilita a aquisição de armas de uso permitido e/ou restrito por agentes policiais e outros profissionais de segurança e por Colecionadores, Atiradores e Caçadores (CAC). Em ambos os casos, o PL permitirá que vastos arsenais sejam constituídos, sem critérios de necessidade ou razoabilidade e sem controle pelo Poder Público". 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    No governo Bolsonaro, já foram oito decretos diferentes sobre calibres, armas e acessórios e explosivos controlados, dos quais quatro estão em vigor
+                
+
+
+
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
